@@ -1,7 +1,7 @@
 [
     {
         "name": "alex",
-        "age": 24,
+        "age": "24",
         "address": "hyderabad"
     },
     {
