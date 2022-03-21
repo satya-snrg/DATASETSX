@@ -6,12 +6,12 @@
     },
     {
         "name": "benn",
-        "age": null,
+        "age": "",
         "address": "hyderabad"
     },
     {
         "name": "kevin",
         "age": "26",
-        "address": null
+        "address": ""
     }
 ]
